@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aquin\\Documents\\GitHub\\comp1000referral\\COMP1000 --- referred-coursework-c1r-twennekers-main\\referred-coursework-c1r-twennekers-main\\tasks\\TaskA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DB20BD-D023-4735-B31F-DB88BAD319FE}|TaskA\\TaskA.vcxproj|C:\\Users\\aquin\\Documents\\GitHub\\comp1000referral\\COMP1000 --- referred-coursework-c1r-twennekers-main\\referred-coursework-c1r-twennekers-main\\tasks\\TaskA\\TaskA\\TaskA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26DB20BD-D023-4735-B31F-DB88BAD319FE}|TaskA\\TaskA.vcxproj|solutionrelative:TaskA\\TaskA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskA.cpp",
+              "DocumentMoniker": "C:\\Users\\aquin\\Documents\\GitHub\\comp1000referral\\COMP1000 --- referred-coursework-c1r-twennekers-main\\referred-coursework-c1r-twennekers-main\\tasks\\TaskA\\TaskA\\TaskA.cpp",
+              "RelativeDocumentMoniker": "TaskA\\TaskA.cpp",
+              "ToolTip": "C:\\Users\\aquin\\Documents\\GitHub\\comp1000referral\\COMP1000 --- referred-coursework-c1r-twennekers-main\\referred-coursework-c1r-twennekers-main\\tasks\\TaskA\\TaskA\\TaskA.cpp",
+              "RelativeToolTip": "TaskA\\TaskA.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T15:54:23.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
